@@ -1,4 +1,4 @@
-[
+"Click the link below to explore the website and discover something amazing!"[(https://chat-app-main-5c40.onrender.com/)
 ](https://chat-app-main-5c40.onrender.com/)
 # Node.js Chat App
 
